@@ -43,6 +43,4 @@
 
 ## Diary
 
-### 2020
-
-* [2020-3](./diary/2020-3)
+Look at `http://thyecust.github.io/diary/YYYY-MM` , such as http://thyecust.github.io/diary/2020-03.

@@ -43,6 +43,4 @@
 
 ## 日记
 
-### 2020
-
-* [2020-3](./diary/2020-3)
+请通过 `http://thyecust.github.io/diary/YYYY-MM` 访问，例如 http://thyecust.github.io/diary/2020-03 。
