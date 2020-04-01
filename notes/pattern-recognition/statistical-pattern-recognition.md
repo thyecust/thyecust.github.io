@@ -1,5 +1,7 @@
 # Statistical Pattern Recognition
 
+[html](/html/pattern-recognition/statistical-pattern-recognition)
+
 ## Bayes Method
 
 问题背景
