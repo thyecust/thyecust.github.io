@@ -1,46 +1,29 @@
-[简体中文](https://thyecust.github.io/index-zh)
+# 田昊宇 Tian Haoyu
 
-## Notes
+## 关于我
 
-### Math & Physics
+我是华东理工大学信息科学与工程学院计算机系的一名本科生（2018 级），软件工程专业。
 
-* Calculus
-* Linear Algebra
-* Probability
+我的主要兴趣是用计算机研究语言和社会科学，也对哲学和数学感兴趣。
 
-### Theories
+我的联系方式是 thy@mail.ecust.edu.cn 。
 
-* Data Structures
-* Algorithm Analysis
-* Introduction to Computational Theory
-* Randomized Algorithm
-* Introduction to Cryptology
-* Introduction to Programming Language Theory
+## 阅读
 
-### Systems
+放在这个仓库的 `/reading` 目录。
 
-* Introduction to Computer Systems
+## 上课
 
-### Applications
+放在这个仓库的 `/course` 目录。
 
-* Human-Computer Interaction
-* Nature Language Processing
-* Information Retrival
-* Pattern Recognization
+## 工具
 
-### Programming
+放在这个仓库的 `/tool` 目录。
 
-* C
-* Cpp
-* JavaScript
-* Python
-* Java
+## 仓库
 
-### CS+X
+| 仓库            | 介绍                                       | 状态    |
+| --------------- | ------------------------------------------ | ------- |
+| thyecust/weixin | 我的个人微信公众号“计算与经济学”推送的文章 | working |
+| thyecust/vsi    | 我阅读牛津通识读本的计划                   | working |
 
-* Market Design
-* Computational Medicine
-
-## Diary
-
-Look at `http://thyecust.github.io/diary/YYYY-MM` , such as http://thyecust.github.io/diary/2020-03.

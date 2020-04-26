@@ -2,12 +2,6 @@
 
 ## 笔记
 
-### 数学和物理
-
-* 微积分
-* 线性代数
-* 概率论
-
 ### 理论
 
 * 数据结构
@@ -44,3 +38,7 @@
 ## 日记
 
 请通过 `http://thyecust.github.io/diary/YYYY-MM` 访问，例如 http://thyecust.github.io/diary/2020-03 。
+
+## 数学游园会
+
+数学游园会是一个数学学习计划，用两年时间走马观花地浏览北大数学双学位的课程，请看 [Math Park](/math-park) 。
