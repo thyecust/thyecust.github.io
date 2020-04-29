@@ -32,6 +32,7 @@
 放在这个仓库的 `/programming` 目录。
 
 * [Web 编程](./programming/web)
+* [JavaScript 编程](./programming/js/)
 
 ## 工具
 
