@@ -51,7 +51,7 @@ window.screen.width;
 
 首先，我们知道 `16px = 1rem` ，还知道 `margin` 决定元素和元素之间的距离，`padding` 决定元素和内容之间的距离。
 
-在 BS 中，我们用 `{property}{sides}-{size}` 来写
+在 BS 中，我们用 `{property}{sides}-{size}` 来写。
 
 ## Icon
 
@@ -71,3 +71,6 @@ window.screen.width;
 </script>
 ```
 
+## 其他资料
+
+* [Flexbox 布局介绍](./flexbox)

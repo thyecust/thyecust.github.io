@@ -12,7 +12,7 @@ Flexbox 布局是为了解决“尺寸会变化的”元素的布局问题被发
 
 Flexbox 不是一个标签或者属性，而是很多的属性，它涉及两个东西：容器（container）和容器里的东西（item）。
 
-<img src="C:\Users\tianh\Documents\GitHub\thyecust.github.io\programming\bootstrap\img\00-basic-terminology.svg" alt="A diagram explaining flexbox terminology. The size across the main axis of flexbox is called the main size, the other direction is the cross size. Those sizes have a main start, main end, cross start, and cross end."  />
+<img src=".\img\00-basic-terminology.svg" alt="A diagram explaining flexbox terminology. The size across the main axis of flexbox is called the main size, the other direction is the cross size. Those sizes have a main start, main end, cross start, and cross end."  />
 
 基本概念
 
@@ -35,7 +35,7 @@ Flexbox 不是一个标签或者属性，而是很多的属性，它涉及两个
 
 `flex-direction`
 
-<img src="C:\Users\tianh\Documents\GitHub\thyecust.github.io\programming\bootstrap\img\image-20200428200254826.png" alt="image-20200428200254826" style="zoom: 50%;" />
+<img src=".\img\image-20200428200254826.png" alt="image-20200428200254826" style="zoom: 50%;" />
 
 ```css
 flex-direction: row | row-reverse | column | column-reverse;
@@ -43,7 +43,7 @@ flex-direction: row | row-reverse | column | column-reverse;
 
 `flex-wrap`
 
-<img src="C:\Users\tianh\Documents\GitHub\thyecust.github.io\programming\bootstrap\img\image-20200428200344080.png" alt="image-20200428200344080" style="zoom: 50%;" />
+<img src=".\img\image-20200428200344080.png" alt="image-20200428200344080" style="zoom: 50%;" />
 
 ```css
 flex-wrap: nowrap | wrap | wrap-reverse;
@@ -51,7 +51,7 @@ flex-wrap: nowrap | wrap | wrap-reverse;
 
 `justify-content`
 
-<img src="C:\Users\tianh\Documents\GitHub\thyecust.github.io\programming\bootstrap\img\image-20200428200450115.png" alt="image-20200428200450115" style="zoom:50%;" />
+<img src=".\img\image-20200428200450115.png" alt="image-20200428200450115" style="zoom:50%;" />
 
 ```css
 justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;
@@ -59,7 +59,7 @@ justify-content: flex-start | flex-end | center | space-between | space-around |
 
 `align-items`
 
-<img src="C:\Users\tianh\Documents\GitHub\thyecust.github.io\programming\bootstrap\img\image-20200428200553002.png" alt="image-20200428200553002" style="zoom:50%;" />
+<img src=".\img\image-20200428200553002.png" alt="image-20200428200553002" style="zoom:50%;" />
 
 ```css
 align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;
@@ -67,7 +67,7 @@ align-items: stretch | flex-start | flex-end | center | baseline | first baselin
 
 `align-content`
 
-<img src="C:\Users\tianh\Documents\GitHub\thyecust.github.io\programming\bootstrap\img\image-20200428200847485.png" alt="image-20200428200847485" style="zoom:50%;" />
+<img src=".\img\image-20200428200847485.png" alt="image-20200428200847485" style="zoom:50%;" />
 
 ```css
 align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;
