@@ -1,4 +1,4 @@
-# 程序设计实践 4：AJAX
+# 程序设计实践 4：AJAX 和 Global.asa
 
 > 课程：[程序设计实践 2020 春](./index)
 
@@ -124,3 +124,26 @@ else
 end if
 %>
 ```
+
+## Global.asa
+
+asa 是 active server application 的缩写，放在 Web 程序的根目录，`Global.asa` 的格式是
+
+```vbscript
+<Script language="VBScript" runat="server">
+sub application_onstart
+    ...
+end sub
+sub application_onend
+    ...
+end sub
+sub session_onstart
+    ...
+end sub
+sub session_onend
+    ...
+end sub
+</Script>
+```
+
+也可以写 TypeLibrary、Object 等。

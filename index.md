@@ -18,12 +18,12 @@
 
 本学期课程：
 
-* 高等数学下
+* [高等数学下](./course/ecust-calculus2020/)
 * 大学物理上
 * Python 程序设计
-* 数据结构
+* [算法与数据结构](./course/ecust-ads2020)
 * 人机交互的软件工程方法
-* 程序设计实践：[link](/course/ecust-pdp2020/index)
+* [程序设计实践](/course/ecust-pdp2020/index)
 * 计算机动画
 * 工程经济学
 
