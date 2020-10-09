@@ -35,3 +35,13 @@ x86-64 Integer Registers
 
 * Not part of memory (or cache)
 
+### Moving Data
+
+```assembly
+movq Source, Dest
+```
+
+Oprand types
+
+* Immediate. `$0x400`, `$-533`
+* Register. One of 16 integer registers
