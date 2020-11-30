@@ -1,50 +1,11 @@
 # 田昊宇 Tian Haoyu
 
-## 关于我
+## 关于我 About Me
 
-我是华东理工大学信息科学与工程学院计算机系的一名本科生（2018 级），软件工程专业。
+* SE Undergraduate in ECUST, until 2022
 
-我的主要兴趣是用计算机研究语言和社会科学，也对哲学和数学感兴趣。
-
-我的联系方式是 thy@mail.ecust.edu.cn 。
-
-## 读书
-
-放在这个仓库的 `/reading` 目录。
-
-## 上课
-
-放在这个仓库的 `/course` 目录。
-
-本学期课程：
-
-* [高等数学下](./course/ecust-calculus2020/)
-* 大学物理上
-* Python 程序设计
-* [算法与数据结构](./course/ecust-ads2020)
-* 人机交互的软件工程方法
-* [程序设计实践](/course/ecust-pdp2020/index)
-* 计算机动画
-* 工程经济学
-
-## 编程
-
-放在这个仓库的 `/programming` 目录。
-
-* [Web 编程](./programming/web)
-* [JavaScript 编程](./programming/js/)
-
-## 工具
-
-放在这个仓库的 `/tool` 目录。
-
-## 仓库
-
-| 仓库            | 介绍                                       | 状态    |
-| --------------- | ------------------------------------------ | ------- |
-| thyecust/weixin | 我的个人微信公众号“计算与经济学”推送的文章 | working |
-| thyecust/vsi    | 我阅读牛津通识读本的计划                   | working |
-
-## 友链
+## 友链 Making Friends
 
 我喜欢交朋友，如果你希望添加友链，欢迎给我发邮件。
+
+E-mail me at `thy@mail.ecust.edu.cn`.
