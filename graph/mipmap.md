@@ -19,11 +19,5 @@ Mipmap (L. Williams 83) 通过提供不同 level 的纹理，解决这一问题�
 
 Level D 的选择使用这个公式
 
-```math
-D
-```
-
-**Here is some math!**
-
-$$\sqrt{3}$$
+$$ D = \log_2 \max (\sqrt{(\frac{du}{dx})^2+(\frac{dv}{dx})^2}, \sqrt{(\frac{du}{dy})^2+(\frac{dv}{dy})^2}) $$
 
