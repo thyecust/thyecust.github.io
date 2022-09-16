@@ -25,7 +25,5 @@ D
 
 **Here is some math!**
 
-```math
-\sqrt{3}
-```
+$$\sqrt{3}$$
 
