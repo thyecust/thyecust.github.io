@@ -1,5 +1,7 @@
 # Mipmap
 
+Ref: http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/williams83_mipmap.pdf
+
 在图形学中，Texture 用来表示一个物体表面的颜色信息。
 
 * Texture space 是一个 2D space
