@@ -19,5 +19,14 @@ Mipmap (L. Williams 83) 通过提供不同 level 的纹理，解决这一问题�
 
 Level D 的选择使用这个公式
 
-$$ D = \log_2 \max (\sqrt{(\frac{du}{dx})^2+(\frac{dv}{dx})^2}, \sqrt{(\frac{du}{dy})^2+(\frac{dv}{dy})^2}) $$
+$$
+D = \log_2 \max \left(
+  \sqrt{
+    \left( \frac{du}{dx} \right)^2 + 
+    \left( \frac{dv}{dx} \right)^2}, 
+  \sqrt{
+    \left( \frac{du}{dy} \right)^2 +
+    \left( \frac{dv}{dy} \right)^2}
+\right)
+$$
 
